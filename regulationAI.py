@@ -65,7 +65,7 @@ print(f"JSON objects stored in {json_filename}")
 
 
 # MongoDB Atlas configuration
-mongo_url = "mongodb+srv://han:han@cluster0.bofm7.mongodb.net/test?retryWrites=true&w=majority"
+mongo_url = "mongodb+srv://yourusername:psw@yourcluster/test?retryWrites=true&w=majority"
 client = pymongo.MongoClient(mongo_url)
 db = client["AIRegulation"]
 collection = db["mifid2"]
