@@ -1,3 +1,11 @@
+The article source: https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac
+
+Dominik Polzer
+Published in
+Towards Data Science
+
+
+
 # regulationAI
 
 ## Build your own chatbot with context injection — Image by the author
