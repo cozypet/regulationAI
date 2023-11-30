@@ -1,6 +1,7 @@
 # AI Regulation Q&A System
 This repository contains a Python script for a Question & Answer system related to AI Regulation. The system utilizes OpenAI's language models, MongoDB for data storage, and various text processing libraries.
 
+For more detailed information, you can check this article: https://artificialcorner.com/mongodb-and-langchain-magic-your-beginners-guide-to-setting-up-a-generative-ai-app-with-your-own-d1f90027d116
 
 <img width="1201" alt="image" src="https://github.com/cozypet/regulationAI/assets/7107896/68b6c1bb-30c1-4f9e-8c04-d1c32c71fd91">
 
